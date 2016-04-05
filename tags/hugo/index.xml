@@ -3,7 +3,7 @@
   <channel>
       <title>Hugo on Frederick&#39;s blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sun-friderick.github.io/tags/hugo/</link>
+    <link>http://scbecho.github.io/tags/hugo/</link>
     <language>en-us</language>
     <author>Frederick Sun</author>
     <copyright>Copyright (c) 2015, Frederick Sun; all rights reserved.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Hugo静态网站生成器中文教程</title>
-      <link>http://sun-friderick.github.io/tech/%E7%94%A8Hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://scbecho.github.io/tech/%E7%94%A8Hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Thu, 31 Mar 2016 00:30:03 CST</pubDate>
       <author>Frederick Sun</author>
-      <guid>http://sun-friderick.github.io/tech/%E7%94%A8Hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://scbecho.github.io/tech/%E7%94%A8Hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>
 
 &lt;h1 id=&#34;前言:d605f9890f3528aea462ac7515ece633&#34;&gt;前言&lt;/h1&gt;
@@ -136,7 +136,7 @@ title = &amp;quot;about&amp;quot;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://sun-friderick.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-1.png&#34; alt=&#34;hugo-server-1&#34; /&gt;
+        &lt;img src=&#34;http://scbecho.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-1.png&#34; alt=&#34;hugo-server-1&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -164,7 +164,7 @@ title = &amp;quot;about&amp;quot;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://sun-friderick.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-2.png&#34; alt=&#34;hugo-server-2&#34; /&gt;
+        &lt;img src=&#34;http://scbecho.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-2.png&#34; alt=&#34;hugo-server-2&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -190,7 +190,7 @@ title = &amp;quot;about&amp;quot;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://sun-friderick.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-change.png&#34; alt=&#34;hugo-server-change&#34; /&gt;
+        &lt;img src=&#34;http://scbecho.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/hugo-server-change.png&#34; alt=&#34;hugo-server-change&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -216,7 +216,7 @@ title = &amp;quot;about&amp;quot;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://sun-friderick.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/comments.png&#34; alt=&#34;comments&#34; /&gt;
+        &lt;img src=&#34;http://scbecho.github.io/media/%e7%94%a8Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/comments.png&#34; alt=&#34;comments&#34; /&gt;
     
     
 &lt;/figure&gt;

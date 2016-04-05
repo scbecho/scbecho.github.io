@@ -3,7 +3,7 @@
   <channel>
       <title>标签1 on Frederick&#39;s blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sun-friderick.github.io/tags/%E6%A0%87%E7%AD%BE1/</link>
+    <link>http://scbecho.github.io/tags/%E6%A0%87%E7%AD%BE1/</link>
     <language>en-us</language>
     <author>Frederick Sun</author>
     <copyright>Copyright (c) 2015, Frederick Sun; all rights reserved.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>favor</title>
-      <link>http://sun-friderick.github.io/favor/favor/</link>
+      <link>http://scbecho.github.io/favor/favor/</link>
       <pubDate>Tue, 05 Apr 2016 10:51:38 CST</pubDate>
       <author>Frederick Sun</author>
-      <guid>http://sun-friderick.github.io/favor/favor/</guid>
+      <guid>http://scbecho.github.io/favor/favor/</guid>
       <description></description>
     </item>
     

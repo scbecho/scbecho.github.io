@@ -3,7 +3,7 @@
   <channel>
       <title>Lives on Frederick&#39;s blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sun-friderick.github.io/live/</link>
+    <link>http://scbecho.github.io/live/</link>
     <language>en-us</language>
     <author>Frederick Sun</author>
     <copyright>Copyright (c) 2015, Frederick Sun; all rights reserved.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>live</title>
-      <link>http://sun-friderick.github.io/live/live/</link>
+      <link>http://scbecho.github.io/live/live/</link>
       <pubDate>Tue, 05 Apr 2016 10:51:52 CST</pubDate>
       <author>Frederick Sun</author>
-      <guid>http://sun-friderick.github.io/live/live/</guid>
+      <guid>http://scbecho.github.io/live/live/</guid>
       <description></description>
     </item>
     
