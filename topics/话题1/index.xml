@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>话题1 on Frederick&#39;s blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://sun-friderick.github.io/topics/%E8%AF%9D%E9%A2%981/</link>
+    <language>en-us</language>
+    <author>Frederick Sun</author>
+    <copyright>Copyright (c) 2015, Frederick Sun; all rights reserved.</copyright>
+    <updated>Tue, 05 Apr 2016 10:51:38 CST</updated>
+    
+    <item>
+      <title>favor</title>
+      <link>http://sun-friderick.github.io/favor/favor/</link>
+      <pubDate>Tue, 05 Apr 2016 10:51:38 CST</pubDate>
+      <author>Frederick Sun</author>
+      <guid>http://sun-friderick.github.io/favor/favor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
